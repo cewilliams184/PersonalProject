@@ -1,0 +1,6 @@
+#test websites
+/index.html
+
+#folders
+ArcGIS/
+web-projects/PocosinWildlifeRefuge/data/Shapefiles/
